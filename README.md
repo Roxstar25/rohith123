@@ -70,17 +70,7 @@ I believe good software isn't just functional — it's intuitive, accessible, an
 
 ---
 
-## GitHub stats
 
-<div align="center">
-
-![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&theme=default)
-
-</div>
-
----
 
 ## Currently learning
 
@@ -97,11 +87,9 @@ Node.js & REST APIs       ███████░░░░░  55%
 
 I'm always open to interesting projects, collaboration, or just a good conversation about frontend development and design.
 
-📬 Reach me at **your@email.com** or find me on [LinkedIn](https://linkedin.com/in/your-handle) and [Upwork](https://www.upwork.com/freelancers/~0173a50e6a2464e2f5?mp_source=share).
+📬 Reach me at **rohithpkoppa@email.com** or find me on [LinkedIn](https://linkedin.com/in/your-handle) and [Upwork](https://www.upwork.com/freelancers/~0173a50e6a2464e2f5?mp_source=share).
 
 ---
 
-<div align="center">
-<sub>Profile views: <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="profile views"/></sub>
-</div>
+
 
